@@ -22,7 +22,11 @@ Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 
 9.Test-Plan-Sprint2_KL :https://docs.google.com/document/d/1VZRTRV3JC7DJFec2oGNQ9syZoKYJQcEVOgIQPJbI4Zg/edit
 
+10.Meeting-Sprint1 :https://docs.google.com/document/d/18UV3E657DZDLnnIAEJ6fup_FeIVf9dLs7Ucliox5gOw/edit?usp=sharing
 
+10.Meeting-Sprint2 :https://docs.google.com/document/d/1vRa6Y0s0FtSvebZshoE6Q_CVM-RgSUW1zdjKqF_7s3Q/edit?usp=sharing
+
+10.Meeting-Final:https://docs.google.com/document/d/1sdPJuSGFUqOkm6KyrPinFyNXkKvQkZniI20DL2vgKmk/edit?usp=sharing
 
 
 
