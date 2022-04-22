@@ -4,13 +4,13 @@ Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 
 2.User Story_KL :https://docs.google.com/document/d/1NejBJFZhEcatmj_G3C51KpoUvhK6SixhuxHCaxVnkIA/edit#
 
-3.ProductBacklog_KL : Thìn thêm dô nha 
+3.ProductBacklog_KL : https://docs.google.com/document/d/1daPPWnOR-g_wjuNjyJDk4t33Fo6n8o0dQKyifkAoG_c/edit#
 
 4.Project Plan_KL : https://docs.google.com/document/d/1zGEfb02bkzrneASI5qHf3eJQ2W_TuW2ekhU7Ic4pJ-A/edit
 
-5.Sprint_Backlog_KL :Thìn thêm dô nha 
+5.Sprint_Backlog_KL :https://docs.google.com/spreadsheets/d/1QNZqaqifjX7yvHJ2M7ySx9TCC27AnyCZd49m4Q1tNp4/edit?usp=sharing
 
-6.User_Interface_Design_Sprint_KL : Thành thêm dô nha 
+6.User_Interface_Design_Sprint_KL : https://docs.google.com/document/d/1XaNPCgHaJhdVemaYb8GS4DDobRbzrNrWFPqNIvxgg_c/edit?usp=sharing
 
 7.Database_KL : https://docs.google.com/document/d/1i8_R8-ZPlQPOK0jDpwthJhqZpWJqPtFjTuZVFENiT5M/edit?usp=sharing 
 
