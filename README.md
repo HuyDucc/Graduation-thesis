@@ -14,9 +14,9 @@ Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 
 7.Database_KL : Quang Huy 
 
-8.Testcase_Sprint1_KL : https://docs.google.com/document/d/1hQyVrrV1RoJfRT1Pwf8a5Xzimp3ZXrTIq8yAQLgMUdg/edit?usp=sharing
+8.Testcase_Sprint1_KL : https://docs.google.com/spreadsheets/d/1YaHBavustljSUfVtxUb093DK38zE1EOd8FWasWRBVVM/edit?usp=sharing
 
-8.Testcase-Sprint2_KL : https://docs.google.com/document/d/19RWgDMI2iqUjRKoA9CkS01sgzTWYC-FicDbX5hhnusw/edit?usp=sharing
+8.Testcase-Sprint2_KL : https://docs.google.com/spreadsheets/d/1wp_wTBZ00_7P7TuFKCpa7FKPYTZ0TBJQj4U5PtQ9iWM/edit?usp=sharing
 
 9.Testcase-Sprint1_KL :https://docs.google.com/document/d/1-f2iELgodQhjJcqZ0IvErQ7w-sWRohwSFrxPsuSE7yU/edit?usp=sharing
 
