@@ -12,7 +12,7 @@ Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 
 6.User_Interface_Design_Sprint_KL : Thành thêm dô nha 
 
-7.Database_KL : Quang Huy 
+7.Database_KL : https://docs.google.com/document/d/1i8_R8-ZPlQPOK0jDpwthJhqZpWJqPtFjTuZVFENiT5M/edit?usp=sharing 
 
 8.Testcase_Sprint1_KL : https://docs.google.com/spreadsheets/d/1YaHBavustljSUfVtxUb093DK38zE1EOd8FWasWRBVVM/edit?usp=sharing
 
