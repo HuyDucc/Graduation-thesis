@@ -18,13 +18,9 @@ Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 
 8.Testcase-Sprint2_KL : https://docs.google.com/spreadsheets/d/1wp_wTBZ00_7P7TuFKCpa7FKPYTZ0TBJQj4U5PtQ9iWM/edit?usp=sharing
 
-9.Testcase-Sprint1_KL :https://docs.google.com/document/d/1-f2iELgodQhjJcqZ0IvErQ7w-sWRohwSFrxPsuSE7yU/edit?usp=sharing
+9.Test-Plan-Sprint1_KL :https://docs.google.com/document/d/1AmcaxcqMsk2duAZkur-Y_IWi8ekfhN2EJWz1lEShvl8/edit?usp=sharing
 
-9.Testcase-Sprint2_KL :https://docs.google.com/document/d/1msn94f5SIytA3fZIG9jtEQSPj7wZ_q7woTrHzoLZTg8/edit?usp=sharing
-
-10.Test-Plan-Sprint1_KL :https://docs.google.com/document/d/1AmcaxcqMsk2duAZkur-Y_IWi8ekfhN2EJWz1lEShvl8/edit?usp=sharing
-
-10.Test-Plan-Sprint2_KL :https://docs.google.com/document/d/1VZRTRV3JC7DJFec2oGNQ9syZoKYJQcEVOgIQPJbI4Zg/edit
+9.Test-Plan-Sprint2_KL :https://docs.google.com/document/d/1VZRTRV3JC7DJFec2oGNQ9syZoKYJQcEVOgIQPJbI4Zg/edit
 
 
 
