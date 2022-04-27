@@ -1,7 +1,7 @@
                                                 ===== TÀI LIỆU KHÓA LUẬN TỐT NGHIỆP =====
                                                 
-    // Tài liệu chia sẻ cho tất cả mọi người nên vui lòng không share link
-    // Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào file ở trên để làm việc và chỉnh sửa. vui lòng không sử dụng những file ở dưới nữa.
+Tài liệu chia sẻ cho tất cả mọi người nên vui lòng không share link
+Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào file ở trên để làm việc và chỉnh sửa. vui lòng không sử dụng những file ở dưới nữa.
     
 Folder Khóa luận tốt nghiệp: https://drive.google.com/drive/folders/1M67A1Z6urx3KlgnAwv4SyENAtGPW9zca?usp=sharing
 Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
@@ -12,7 +12,7 @@ Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
-1.Proposal: https://docs.google.com/document/d/1gYEidWT7AJmx9d56mM6gq1vlRJIvhOm6ECZ1KecNR9Q/edit?fbclid=IwAR1n3epPYvfHOhiU_Y7wyUxf-DpM0qh8bqW9APE3hul2K9tEad12wo-61TE
+<!-- 1.Proposal: https://docs.google.com/document/d/1gYEidWT7AJmx9d56mM6gq1vlRJIvhOm6ECZ1KecNR9Q/edit?fbclid=IwAR1n3epPYvfHOhiU_Y7wyUxf-DpM0qh8bqW9APE3hul2K9tEad12wo-61TE
 
 2.User Story_KL :https://docs.google.com/document/d/1NejBJFZhEcatmj_G3C51KpoUvhK6SixhuxHCaxVnkIA/edit#
 
@@ -40,5 +40,5 @@ Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 
 10.Meeting-Final:https://docs.google.com/document/d/1sdPJuSGFUqOkm6KyrPinFyNXkKvQkZniI20DL2vgKmk/edit?usp=sharing
 
-
+ -->
 
