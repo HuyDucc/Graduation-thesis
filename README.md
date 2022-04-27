@@ -1,21 +1,16 @@
                                                 ===== TÀI LIỆU KHÓA LUẬN TỐT NGHIỆP =====
                                                 
     // Tài liệu chia sẻ cho tất cả mọi người nên vui lòng không share link
-    // Đây là link folder full: https://drive.google.com/drive/folders/1M67A1Z6urx3KlgnAwv4SyENAtGPW9zca?usp=sharing
-1. Bìa Chính: https://docs.google.com/document/d/1Cuqp4hYuFajPlZyyfqIDuM5egvae7zwn7HoQF4YZL8w/edit?usp=sharing
-2. Bìa Phụ: https://docs.google.com/document/d/1Ngo3kAOasTJgKYT7rGz1AWAoE249G5JweWwAIw7sRNA/edit?usp=sharing
-3. Lời cảm ơn: https://docs.google.com/document/d/1Ub0jcE7gFPJPiv7mSlHhfKfTMjoDJUC3KF6oGxzcZM0/edit?usp=sharing
-
-
-
-
-
+    // Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào file ở trên để làm việc và chỉnh sửa. vui lòng không sử dụng những file ở dưới nữa.
+    
+Folder Khóa luận tốt nghiệp: https://drive.google.com/drive/folders/1M67A1Z6urx3KlgnAwv4SyENAtGPW9zca?usp=sharing
+Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
 
 
 
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-Design: https://www.figma.com/file/p97J0mutkQUwwZhzG96obC/KLTN?node-id=0%3A1
+
 
 1.Proposal: https://docs.google.com/document/d/1gYEidWT7AJmx9d56mM6gq1vlRJIvhOm6ECZ1KecNR9Q/edit?fbclid=IwAR1n3epPYvfHOhiU_Y7wyUxf-DpM0qh8bqW9APE3hul2K9tEad12wo-61TE
 
