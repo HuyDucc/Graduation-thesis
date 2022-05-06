@@ -44,6 +44,8 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
 // USER
   
   Login 
+
+    POST  http://localhost:8081/user/login
     
     {
         "email": "admin.wer@gmail.com",
@@ -51,6 +53,8 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     }
   
   Register
+
+    POST  http://localhost:8081/user/register
     
     {
         "firstName": "Benjamin",
@@ -60,8 +64,255 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
         "roles": "ROLE_USER",
         "password": "1q2w3e456789"
     }
+    
+  Reset password
+    
+    GET  http://localhost:8081/user/resetPassword/<email>
+    
+  Add user
 
-  
+    POST http://localhost:8081/user/add
+    
+    Res
+        
+    ![image](https://user-images.githubusercontent.com/73837629/167130033-033a5b6e-e7ea-4e4f-b198-b8398c9f0e3e.png)
+
+    Req
+
+    {
+        "id": 69,
+        "firstName": "James",
+        "lastName": "Wan",
+        "username": "james1",
+        "email": "admin@gmail.com",
+        "phoneNumber": null,
+        "dateOfBirth": null,
+        "profileImageUrl": "http://localhost:8081/user/image/profile/james1",
+        "lastLogin": null,
+        "lastLoginDateDisplay": null,
+        "joinDate": "2022-05-06T12:19:58.416+00:00",
+        "roles": "ROLE_TEACHER",
+        "authorities": [
+            "user:create",
+            "user:delete",
+            "user:read",
+            "user:update"
+        ],
+        "authType": null,
+        "active": true,
+        "notLocked": true
+    }
+    
+    Update User
+
+    POST http://localhost:8081/user/update
+    
+    Req
+
+    ![image](https://user-images.githubusercontent.com/73837629/167130625-894d9286-6b6d-47fa-a1f7-281af93df333.png)
+
+    Res
+    
+    {
+        "id": 48,
+        "firstName": "Jamesss",
+        "lastName": "Wannn",
+        "username": "jamesss22222",
+        "email": "james@gmail.com",
+        "phoneNumber": null,
+        "dateOfBirth": null,
+        "profileImageUrl": "http://localhost:8081/user/image/profile/wang_huy",
+        "lastLogin": "2022-04-11T15:22:20.039+00:00",
+        "lastLoginDateDisplay": "2022-04-11T15:19:45.037+00:00",
+        "joinDate": "2022-05-30T16:29:55.332+00:00",
+        "roles": "ROLE_USER",
+        "authorities": [
+            "user:read",
+            "user:update"
+        ],
+        "authType": null,
+        "notLocked": true,
+        "active": true
+    }
+    
+    Delete User
+
+    DELETE http://localhost:8081/user/delete/50
+    
+    Res
+
+    {
+        "timeStamp": "05-06-2022 07:28:34",
+        "httpStatusCode": 200,
+        "httpStatus": "OK",
+        "type": "SUCCESS",
+        "reason": "OK",
+        "message": "USER DELETED SUCCESSFULLY"
+    }
+    
+    List User
+
+    GET http://localhost:8081/user/list
+    
+    [
+        {
+            "id": 11,
+            "firstName": "Ho Quang",
+            "lastName": "Huy",
+            "username": "quanghuy",
+            "email": "admin@gmail.com",
+            "phoneNumber": null,
+            "dateOfBirth": null,
+            "profileImageUrl": "http://localhost:8081/user/image/profile/quanghuy",
+            "lastLogin": "2022-05-06T12:21:11.135+00:00",
+            "lastLoginDateDisplay": "2022-05-06T08:30:26.513+00:00",
+            "joinDate": "2022-03-14T15:44:04.115+00:00",
+            "roles": "ROLE_ADMIN",
+            "authorities": [
+                "user:create",
+                "user:delete",
+                "user:read",
+                "user:update"
+            ],
+            "authType": null,
+            "notLocked": true,
+            "active": true
+        }
+    ]
+    
+    
+    Change password
+
+    POST http://localhost:8081/user/change-password
+    
+    Res
+    
+    {
+      "email": "james@gmail.com",
+      "oldPassword": "RZnsso57",
+      "newPassword": "1q2w3e456789"
+    }
+    
+    Req
+    
+    {
+      "timeStamp": "05-06-2022 07:32:24",
+      "httpStatusCode": 200,
+      "httpStatus": "OK",
+      "type": "SUCCESS",
+      "reason": "OK",
+      "message": "CHANGE PASSWORD SUCCESSFULLY"
+    }
+    
+    
+    Lock account 
+    
+    GET http://localhost:8081/user/44/locked/true
+    
+    {
+      "timeStamp": "05-06-2022 07:33:40",
+      "httpStatusCode": 200,
+      "httpStatus": "OK",
+      "type": "SUCCESS",
+      "reason": "OK",
+      "message": "ACCOUNT UNLOCK SUCCESSFUL"    like LOCK
+    }
+    
+    
+    Export User CSV
+
+    Req
+    
+    GET http://localhost:8081/user/export/csv
+
+    
+    
+    Quiz
+
+    Add Quiz 
+    
+    POST http://localhost:8081/quizz/add
+
+    ![image](https://user-images.githubusercontent.com/73837629/167132479-12f5e8c6-f9e0-4ddf-8fe9-b88f97b5be4e.png)
+    
+
+    Req
+    
+    {
+      "timeStamp": "05-06-2022 07:36:37",
+      "httpStatusCode": 200,
+      "httpStatus": "OK",
+      "type": "SUCCESS",
+      "reason": "OK",
+      "message": "ADD QUICK TEST SUCCESS"
+    }
+    
+    List quiz
+
+    GET http://localhost:8081/quizz/list
+
+    Res
+
+    [
+        {
+            "id": 4,
+            "testName": "java",
+            "dateCreated": "29-03-2022 09:53:17",
+            "examTime": 600,
+            "isStart": null,
+            "isEnd": null,
+            "activationCode": "236759",
+            "questions": [
+                {
+                    "id": 3,
+                    "topicQuestion": "How can you achieve runtime polymorphism in Java?",
+                    "questionImageUrl": "",
+                    "answerA": "method overloading",
+                    "answerB": "method overrunning",
+                    "answerC": "method overriding",
+                    "answerD": "method calling",
+                    "correctResult": "C",
+                    "mark": 2.5,
+                    "milestones": 1,
+                    "dateCreated": "11-04-2022 10:11:33"
+                },
+                {
+                    "id": 5,
+                    "topicQuestion": "The runtime system starts your program by calling which function first?",
+                    "questionImageUrl": null,
+                    "answerA": "print",
+                    "answerB": "iterative",
+                    "answerC": "hello",
+                    "answerD": "main",
+                    "correctResult": "D",
+                    "mark": 2.5,
+                    "milestones": 1,
+                    "dateCreated": "11-04-2022 10:11:33"
+                },
+                {
+                    "id": 78,
+                    "topicQuestion": "The runtime system starts your program by calling which function first?",
+                    "questionImageUrl": null,
+                    "answerA": null,
+                    "answerB": null,
+                    "answerC": null,
+                    "answerD": null,
+                    "correctResult": null,
+                    "mark": 2.5,
+                    "milestones": 1,
+                    "dateCreated": null
+                }
+            ]
+        }
+     ]     
+    
+
+
+
+    
+    
+    
+    
 
 
  
