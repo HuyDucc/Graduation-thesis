@@ -75,7 +75,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     Res
         
-    ![image](https://user-images.githubusercontent.com/73837629/167130033-033a5b6e-e7ea-4e4f-b198-b8398c9f0e3e.png)
+  ![image](https://user-images.githubusercontent.com/73837629/167130033-033a5b6e-e7ea-4e4f-b198-b8398c9f0e3e.png)
 
     Req
 
@@ -109,7 +109,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     Req
 
-    ![image](https://user-images.githubusercontent.com/73837629/167130625-894d9286-6b6d-47fa-a1f7-281af93df333.png)
+  ![image](https://user-images.githubusercontent.com/73837629/167130625-894d9286-6b6d-47fa-a1f7-281af93df333.png)
 
     Res
     
@@ -233,7 +233,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     POST http://localhost:8081/quizz/add
 
-    ![image](https://user-images.githubusercontent.com/73837629/167132479-12f5e8c6-f9e0-4ddf-8fe9-b88f97b5be4e.png)
+  [image](https://user-images.githubusercontent.com/73837629/167132479-12f5e8c6-f9e0-4ddf-8fe9-b88f97b5be4e.png)
     
 
     Req
