@@ -233,7 +233,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     POST http://localhost:8081/quizz/add
 
-  [image](https://user-images.githubusercontent.com/73837629/167132479-12f5e8c6-f9e0-4ddf-8fe9-b88f97b5be4e.png)
+  ![image](https://user-images.githubusercontent.com/73837629/167132479-12f5e8c6-f9e0-4ddf-8fe9-b88f97b5be4e.png)
     
 
     Req
