@@ -40,5 +40,29 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
 
     10.Meeting-Final:https://docs.google.com/document/d/1sdPJuSGFUqOkm6KyrPinFyNXkKvQkZniI20DL2vgKmk/edit?usp=sharing
 
+
+// USER
+  
+  Login 
+    
+    {
+        "email": "admin.wer@gmail.com",
+        "password": "1q2w3e456789"
+    }
+  
+  Register
+    
+    {
+        "firstName": "Benjamin",
+        "lastName": "Wan",
+        "email": "benjaminffff@gmail.com",
+        "username": "benjamin_ertffggg",
+        "roles": "ROLE_USER",
+        "password": "1q2w3e456789"
+    }
+
+  
+
+
  
 
