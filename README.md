@@ -400,8 +400,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     Add question 4 
     
     POST http://localhost:8081/question/add
-    
-    
+   
     
   ![image](https://user-images.githubusercontent.com/73837629/167236297-599f4b39-42a8-4e22-be61-19461478ec15.png 
 
@@ -416,6 +415,12 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
         "reason": "CREATED",
         "message": "ADD SUCCESS QUESTION"
     }
+    
+    
+    Add quesiton 2
+    
+  ![image](https://user-images.githubusercontent.com/73837629/167238116-1494afab-7edd-45ef-a44d-8c0a81999189.png)
+
     
     Add quesion short 
 
@@ -485,7 +490,12 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
             "quizzId": 4,
             "questionId": 79,
             "shortAnswer": "Don't know"   // short answer
-        }       
+        },
+        {
+            "quizzId": 4,
+            "questionId": 94,
+            "isSelected": "A,B"
+        } 
     ]
     
     
