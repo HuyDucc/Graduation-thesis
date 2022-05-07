@@ -571,7 +571,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     Save Mark
 
-    POST http://localhost:8081/user-mark
+    POST http://localhost:8081/user-mark/save   cái ni sẽ chạy sau khi nộp bài, có nghĩa là submit bài xong là sẽ cho url ni chạy.
     
     {
         "quizzId": 4                          => vì không lấy được id nên phải gửi id quizz, điểm hắn sẽ tự tính ở dưới, t suy nghĩ hết rồi không có cách mô tính điểm                                                  mà không có quizzID
