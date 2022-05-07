@@ -401,7 +401,8 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     POST http://localhost:8081/question/add
     
-   ![image](https://user-images.githubusercontent.com/73837629/167236297-599f4b39-42a8-4e22-be61-19461478ec15.png
+ ![image](https://user-images.githubusercontent.com/73837629/167236297-599f4b39-42a8-4e22-be61-19461478ec15.png
+ 
 
     {
         "timeStamp": "05-07-2022 10:28:12",
