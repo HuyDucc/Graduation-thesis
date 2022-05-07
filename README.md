@@ -574,7 +574,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     POST http://localhost:8081/user-mark
     
     {
-        "quizzId": 4                          => vì không lấy được id nên phải gửi id quizz, điểm hắn sẽ tự tính ở dưới, t sẽ xem lại
+        "quizzId": 4                          => vì không lấy được id nên phải gửi id quizz, điểm hắn sẽ tự tính ở dưới, t suy nghĩ hết rồi không có cách mô tính điểm                                                  mà không có quizzID
     }
     
     
