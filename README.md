@@ -424,7 +424,9 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     Add quesion short 
 
-  ![image](https://user-images.githubusercontent.com/73837629/167236452-c3b618a2-179b-4bdc-9694-13f09a22ae82.png)
+  ![image](https://user-images.githubusercontent.com/73837629/167258739-b4ec587c-57a1-4b1d-bd29-e21748b472c8.png)
+  
+    thêm cái correctEssay
 
      {
         "timeStamp": "05-07-2022 10:28:12",
@@ -436,6 +438,8 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     }
      
     PATCH http://localhost:8081/question/update 
+    
+    update tương tự add ở trên 
      
    ![image](https://user-images.githubusercontent.com/73837629/167236351-f2a60043-405e-4368-a8fb-e9d183533367.png)
  
@@ -522,17 +526,8 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
               "answerD": "method calling",
               "correctResult": "C",
               "isSelected": "C",
-              "shortAnswer": null
-          },
-          {
-              "topicQuestion": "How can you achieve runtime polymorphism in Java?",
-              "answerA": "method overloading",
-              "answerB": "method overrunning",
-              "answerC": "method overriding",
-              "answerD": "method calling",
-              "correctResult": "C",
-              "isSelected": "C",
-              "shortAnswer": null
+              "shortAnswer": null,
+              "correctEssay": null
           },
           {
               "topicQuestion": "The runtime system starts your program by calling which function first?",
@@ -542,27 +537,30 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
               "answerD": "main",
               "correctResult": "D",
               "isSelected": "D",
-              "shortAnswer": null
+              "shortAnswer": null,
+              "correctEssay": null
           },
           {
-              "topicQuestion": "The runtime system starts your program by calling which function first?",
-              "answerA": "print",
-              "answerB": "iterative",
-              "answerC": "hello",
-              "answerD": "main",
-              "correctResult": "D",
-              "isSelected": "D",
-              "shortAnswer": null
+              "topicQuestion": "10 is the result of which sentence?",
+              "answerA": "20 - 10",
+              "answerB": "2 * 10",
+              "answerC": "25",
+              "answerD": "22",
+              "correctResult": "A,B",
+              "isSelected": "A,B",
+              "shortAnswer": null,
+              "correctEssay": null
           },
           {
-              "topicQuestion": "The runtime system starts your program by calling which function first?",
-              "answerA": null,
-              "answerB": null,
-              "answerC": null,
-              "answerD": null,
-              "correctResult": null,
+              "topicQuestion": "How do you fix the syntax error that results from running this code?",
+              "answerA": "",
+              "answerB": "",
+              "answerC": "",
+              "answerD": "",
+              "correctResult": "",
               "isSelected": null,
-              "shortAnswer": "main"
+              "shortAnswer": "main",                        câu ni là user trả lời     
+              "correctEssay": "interface"                   câu trả lời đúng 
           }
     ]
     
