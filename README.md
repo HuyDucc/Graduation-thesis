@@ -401,7 +401,11 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     POST http://localhost:8081/question/add
     
- ![image](https://user-images.githubusercontent.com/73837629/167236297-599f4b39-42a8-4e22-be61-19461478ec15.png
+    
+    
+  ![image](https://user-images.githubusercontent.com/73837629/167236297-599f4b39-42a8-4e22-be61-19461478ec15.png 
+
+    kích dô xem dùm, cái ni bị lỗi chi đéo rõ 
  
 
     {
@@ -455,7 +459,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
      
      Import quizz from excel by quiz ID
      
-     POST http://localhost:8081/question/import/31
+     POST http://localhost:8081/question/import/31    31 => quizID
      
    ![image](https://user-images.githubusercontent.com/73837629/167236483-5459f1de-a9be-4ce9-8a71-1f78bf503c32.png)
 
@@ -646,6 +650,8 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     GET http://localhost:8081/user-mark/export/excel/4   4 => quizzID 
 
     ni sẽ xuất file excel ra
+
+
 
     
     
