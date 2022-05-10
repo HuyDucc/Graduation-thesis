@@ -401,7 +401,8 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     POST http://localhost:8081/question/add
    
- ![image](https://user-images.githubusercontent.com/73837629/167667196-24a6c299-1980-438d-86d4-6d6df596ab8d.png
+ ![image](https://user-images.githubusercontent.com/73837629/167670185-4d50532e-2e27-4992-bd60-f4a38a798780.png)
+
 
     kích dô xem dùm, cái ni bị lỗi chi đéo rõ 
  
@@ -418,12 +419,12 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     Add quesiton 2
     
-  ![image](https://user-images.githubusercontent.com/73837629/167238116-1494afab-7edd-45ef-a44d-8c0a81999189.png)
+  ![image](https://user-images.githubusercontent.com/73837629/167670056-ec35d479-c9db-4386-9ca7-a174acd8ab1a.png)
 
     
     Add quesion short 
 
-  ![image](https://user-images.githubusercontent.com/73837629/167667445-f6ed201a-0f55-4908-b5cd-f4445868c20c.png)
+  ![image](https://user-images.githubusercontent.com/73837629/167670352-61fee328-3497-49dc-8735-2d6187a9dc0b.png)
   
     thêm cái correctEssay
 
@@ -440,8 +441,9 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     update tương tự add ở trên 
      
-   ![image](https://user-images.githubusercontent.com/73837629/167667550-6b791012-330f-4a60-b3f0-cdd3708b0dbd.png)
- 
+   ![image](https://user-images.githubusercontent.com/73837629/167670568-e9ff59b0-4bfb-45b9-ba0b-9edfe181f4e9.png)
+   ![image](https://user-images.githubusercontent.com/73837629/167670633-429921f5-78fa-4d8f-9bde-5e48ae914552.png) 
+
      
      {
         "timeStamp": "05-07-2022 10:29:45",
