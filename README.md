@@ -401,8 +401,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     POST http://localhost:8081/question/add
    
-    
-  ![image](https://user-images.githubusercontent.com/73837629/167236297-599f4b39-42a8-4e22-be61-19461478ec15.png 
+ ![image](https://user-images.githubusercontent.com/73837629/167667196-24a6c299-1980-438d-86d4-6d6df596ab8d.png
 
     kích dô xem dùm, cái ni bị lỗi chi đéo rõ 
  
@@ -424,7 +423,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     Add quesion short 
 
-  ![image](https://user-images.githubusercontent.com/73837629/167258739-b4ec587c-57a1-4b1d-bd29-e21748b472c8.png)
+  ![image](https://user-images.githubusercontent.com/73837629/167667445-f6ed201a-0f55-4908-b5cd-f4445868c20c.png)
   
     thêm cái correctEssay
 
@@ -441,7 +440,7 @@ Em thìn đã tổng hợp file vào 1 folder ở trên nên mọi người vào
     
     update tương tự add ở trên 
      
-   ![image](https://user-images.githubusercontent.com/73837629/167236351-f2a60043-405e-4368-a8fb-e9d183533367.png)
+   ![image](https://user-images.githubusercontent.com/73837629/167667550-6b791012-330f-4a60-b3f0-cdd3708b0dbd.png)
  
      
      {
